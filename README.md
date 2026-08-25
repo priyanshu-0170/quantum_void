@@ -1,1 +1,1 @@
-# quantum_void!!
+# quantum_void
